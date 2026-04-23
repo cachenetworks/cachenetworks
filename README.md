@@ -6,6 +6,59 @@
 
 ---
 
+## 📂 Explore My Work
+
+👉 **[View All Projects →](./PROJECTS.md)**
+
+---
+
+## 📊 GitHub Analytics
+
+### 🔥 Overview
+
+![Stats](https://github-readme-stats.vercel.app/api?username=cachenetworks\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
+
+---
+
+### 📈 Activity & Streak
+
+![Streak](https://streak-stats.demolab.com?user=cachenetworks\&theme=tokyonight\&hide_border=true)
+
+---
+
+### 🧠 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cachenetworks\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+### 📅 Contribution Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=cachenetworks\&theme=tokyo-night\&hide_border=true)
+
+---
+
+### 🏆 Achievements
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=cachenetworks\&theme=tokyonight\&no-frame=true\&margin-w=10)
+
+---
+
+### 👀 Profile Views
+
+![Views](https://komarev.com/ghpvc/?username=cachenetworks\&label=Profile%20Views\&color=blueviolet\&style=flat)
+
+---
+
+## ⚡ Tech Activity Snapshot
+
+* 💻 Active in: Python, Web Dev, AI Systems
+* 🧠 Focus: Automation, Infrastructure, Local AI
+* 🚀 Building: NovaAI, CacheNetworks, Tooling Systems
+* 🔥 Mode: Always shipping (or breaking something)
+
+---
+
 ## 🌐 About CacheNetworks
 
 **CacheNetworks** is a modern website builder focused on speed, simplicity, and clean design.
@@ -28,9 +81,9 @@ Just fast, scalable, actually usable tools.
 
 ## 🚀 Current Projects
 
-* 🧠 **NovaAI** – Personal AI assistant (local + cloud hybrid)
+* 🧠 **NovaAI** – Personal AI assistant
 * 🌐 **CacheNetworks** – Website builder platform
-* 🤖 Automation tools & Discord systems
+* 🤖 Automation systems & tools
 
 ---
 
@@ -42,12 +95,6 @@ Just fast, scalable, actually usable tools.
 ![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge\&logo=docker)
 ![Nginx](https://img.shields.io/badge/Nginx-111?style=for-the-badge\&logo=nginx)
 ![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge\&logo=linux)
-
----
-
-## 📊 Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=cachenetworks\&show_icons=true\&theme=tokyonight)
 
 ---
 
@@ -73,4 +120,4 @@ Just fast, scalable, actually usable tools.
 
 ---
 
-⭐ If you like what I build, feel free to check out my projects or drop a follow.
+⭐ If you like what I build, drop a follow — or just watch the chaos unfold.
