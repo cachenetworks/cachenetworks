@@ -40,7 +40,7 @@
 
 ### 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=cachenetworks\&theme=tokyonight\&no-frame=true\&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=cachenetworks&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
 
