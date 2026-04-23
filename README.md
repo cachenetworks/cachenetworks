@@ -1,59 +1,76 @@
-## Hi there 👋
+# 👋 Hey, I’m Cache
 
-<!--
-**cachenetworks/cachenetworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-**# 👋 Hey, I'm Cache
-
-🚀 Full-stack developer | AI Engineer | Founder of CacheNetworks  
-💻 Building tools, AI systems, and scalable web platforms  
+🚀 Founder of **CacheNetworks**
+💻 Full-stack developer • AI Engineer • System builder
+⚡ Turning caffeine into scalable platforms
 
 ---
 
-## 🧠 About Me
-- 🔭 Working on: NovaAI (personal AI assistant)
-- 🌐 Founder of: CacheNetworks (website builder)
-- ⚡ Interests: AI, automation, infrastructure, VR communities
-- 🛠️ Stack: Python, Flask, Next.js, SQLite, Docker
+## 🌐 About CacheNetworks
+
+**CacheNetworks** is a modern website builder focused on speed, simplicity, and clean design.
+
+No bloated nonsense.
+No drag-and-drop chaos.
+Just fast, scalable, actually usable tools.
 
 ---
 
-## 🚀 Projects
-- 🧠 NovaAI – Personal AI assistant (local + cloud hybrid)
-- 🌐 CacheNetworks – Website builder platform
-- 🤖 Discord bots, AI tools, automation systems
+## 🧠 What I Do
+
+* 🏗️ Build full-stack web platforms (Flask + Next.js)
+* 🤖 Develop AI systems (NovaAI & local LLM setups)
+* ⚙️ Run infrastructure (Docker, Nginx, systemd)
+* 🔐 Explore security & automation
+* 🧪 Break things… then rebuild them better
+
+---
+
+## 🚀 Current Projects
+
+* 🧠 **NovaAI** – Personal AI assistant (local + cloud hybrid)
+* 🌐 **CacheNetworks** – Website builder platform
+* 🤖 Automation tools & Discord systems
 
 ---
 
 ## ⚙️ Tech Stack
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/Flask-111?style=for-the-badge&logo=flask)
-![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=next.js)
-![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
+
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge\&logo=python)
+![Flask](https://img.shields.io/badge/Flask-111?style=for-the-badge\&logo=flask)
+![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge\&logo=next.js)
+![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge\&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-111?style=for-the-badge\&logo=nginx)
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge\&logo=linux)
 
 ---
 
 ## 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=cachenetworks\&show_icons=true\&theme=tokyonight)
 
 ---
 
 ## 📫 Contact
-- Discord: cache_og
-- GitHub: https://github.com/YOUR_USERNAME
+
+* 💬 Discord: `cache_og`
+* 🌍 Website: *coming soon (it’s always “almost done”)*
 
 ---
 
-## ⚡ Fun Fact
-I build systems I wish existed.
+## ⚡ Fun Facts
+
+* I deploy first… ask questions later
+* If it breaks, it becomes a feature
+* Yes, it works on my machine
+
+---
+
+## 🧩 Philosophy
+
+> Build tools you actually want to use.
+> If it feels clunky — it’s already wrong.
+
+---
+
+⭐ If you like what I build, feel free to check out my projects or drop a follow.
