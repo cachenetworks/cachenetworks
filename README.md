@@ -38,12 +38,6 @@
 
 ---
 
-### 🏆 Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=cachenetworks&theme=tokyonight&no-frame=true&margin-w=10)
-
----
-
 ### 👀 Profile Views
 
 ![Views](https://komarev.com/ghpvc/?username=cachenetworks\&label=Profile%20Views\&color=blueviolet\&style=flat)
